@@ -2,5 +2,5 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
     }
-// ws9dw9fiw9fid78575744
+//
 }
